@@ -47,5 +47,5 @@ It demonstrates how asynchronous JavaScript works using **Fetch API, async/await
 
 ---
 
-## 📂 Project Structure
+
 <img width="960" height="564" alt="Screenshot 2026-03-17 175840" src="https://github.com/user-attachments/assets/c34acea2-4bf8-4717-8c22-1d1e292fe15f" />
